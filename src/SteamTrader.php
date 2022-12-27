@@ -2,9 +2,7 @@
 
 namespace Danielmagacf\SteamTrade;
 
-use Danielmagacf\SteamTrade\SteamTrade;
-
-require_once('php-steam-tradeoffers/classes/steam.class.php');
+use Danielmagacf\SteamTrade\Steam\Classes\SteamTrade;
 
 class SteamTrader
 {
