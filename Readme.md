@@ -1,5 +1,13 @@
 #this package is just a wrapper
 
+To install
+```
+composer require danielmagacf/steam-trade
+```
+
+To use
+
+Danielmagacf\SteamTrade\SteamTrader::get($sessionId, $cookiesArray);
 
 
 
