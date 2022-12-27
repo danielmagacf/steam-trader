@@ -1,6 +1,6 @@
 <?php
 
-namespace Daniel\SteamTrade;
+namespace Danielmagacf\SteamTrade;
 
 use SteamTrade;
 

@@ -1,8 +1,8 @@
 {
-    "name": "magadanunhak/steam-trade",
+    "name": "danielmagacf/steam-trade",
     "autoload": {
         "psr-4": {
-            "Daniel\\SteamTrade\\": "src/"
+            "Danielmagacf\\SteamTrade\\": "src/"
         }
     },
     "authors": [
