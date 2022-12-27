@@ -1,0 +1,15 @@
+{
+    "name": "daniel/steam-trade",
+    "autoload": {
+        "psr-4": {
+            "Daniel\\SteamTrade\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Maga",
+            "email": "magadanuhak@gmail.com"
+        }
+    ],
+    "require": {}
+}
