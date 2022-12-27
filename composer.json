@@ -1,5 +1,5 @@
 {
-    "name": "daniel/steam-trade",
+    "name": "magadanunhak/steam-trade",
     "autoload": {
         "psr-4": {
             "Daniel\\SteamTrade\\": "src/"
